@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/HealthCareDashBoard/static/css/main.1b472c1c.chunk.css",
+    "main.js": "/HealthCareDashBoard/static/js/main.a1804ed2.chunk.js",
+    "main.js.map": "/HealthCareDashBoard/static/js/main.a1804ed2.chunk.js.map",
+    "runtime-main.js": "/HealthCareDashBoard/static/js/runtime-main.e1865160.js",
+    "runtime-main.js.map": "/HealthCareDashBoard/static/js/runtime-main.e1865160.js.map",
+    "static/js/2.9e7d8733.chunk.js": "/HealthCareDashBoard/static/js/2.9e7d8733.chunk.js",
+    "static/js/2.9e7d8733.chunk.js.map": "/HealthCareDashBoard/static/js/2.9e7d8733.chunk.js.map",
+    "static/css/3.27142470.chunk.css": "/HealthCareDashBoard/static/css/3.27142470.chunk.css",
+    "static/js/3.9671af4a.chunk.js": "/HealthCareDashBoard/static/js/3.9671af4a.chunk.js",
+    "static/js/3.9671af4a.chunk.js.map": "/HealthCareDashBoard/static/js/3.9671af4a.chunk.js.map",
+    "static/js/4.bff01b47.chunk.js": "/HealthCareDashBoard/static/js/4.bff01b47.chunk.js",
+    "static/js/4.bff01b47.chunk.js.map": "/HealthCareDashBoard/static/js/4.bff01b47.chunk.js.map",
+    "static/css/5.2948f68f.chunk.css": "/HealthCareDashBoard/static/css/5.2948f68f.chunk.css",
+    "static/js/5.0d09ee6c.chunk.js": "/HealthCareDashBoard/static/js/5.0d09ee6c.chunk.js",
+    "static/js/5.0d09ee6c.chunk.js.map": "/HealthCareDashBoard/static/js/5.0d09ee6c.chunk.js.map",
+    "static/js/6.deaf8818.chunk.js": "/HealthCareDashBoard/static/js/6.deaf8818.chunk.js",
+    "static/js/6.deaf8818.chunk.js.map": "/HealthCareDashBoard/static/js/6.deaf8818.chunk.js.map",
+    "index.html": "/HealthCareDashBoard/index.html",
+    "static/css/3.27142470.chunk.css.map": "/HealthCareDashBoard/static/css/3.27142470.chunk.css.map",
+    "static/css/5.2948f68f.chunk.css.map": "/HealthCareDashBoard/static/css/5.2948f68f.chunk.css.map",
+    "static/css/main.1b472c1c.chunk.css.map": "/HealthCareDashBoard/static/css/main.1b472c1c.chunk.css.map",
+    "static/js/2.9e7d8733.chunk.js.LICENSE.txt": "/HealthCareDashBoard/static/js/2.9e7d8733.chunk.js.LICENSE.txt",
+    "static/js/4.bff01b47.chunk.js.LICENSE.txt": "/HealthCareDashBoard/static/js/4.bff01b47.chunk.js.LICENSE.txt",
+    "static/media/user.png": "/HealthCareDashBoard/static/media/user.a6143582.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1865160.js",
+    "static/js/2.9e7d8733.chunk.js",
+    "static/css/main.1b472c1c.chunk.css",
+    "static/js/main.a1804ed2.chunk.js"
+  ]
+}
